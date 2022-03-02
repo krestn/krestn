@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on 'Bathing Ape', an Instagram clone that utilizes a Flask back-end, JavaScript, React, and Redux front end, and AWS set up that allow users to upload image files and share posts with their followers. 
+- 🔭 I’m currently working on 'Bathing Ape', an Instagram clone that utilizes a Flask back-end, JavaScript, React, and Redux front end, and AWS set up that allows users to upload image files and share posts with their followers. 
 - 
 - 🌱 I’m currently sharpening my Python and CSS skills while working on'Bathing Ape'.
 - 
