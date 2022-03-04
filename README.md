@@ -20,5 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently sharpening my Python and CSS skills while working on'Bathing Ape'.
 - 
 - 👯 I’m looking to collaborate on creative and original projects. If you have one in mind, let me know!
+
+- 📚 I'm currently reading A Promised Land by Barack Obama
 - 
 - 📫 How to reach me: kreston.cm@gmail.com
