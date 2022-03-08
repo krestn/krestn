@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on 'Bathing Ape', an Instagram clone that utilizes a Flask back-end, JavaScript, React, and Redux front end, and AWS set up that allows users to upload image files and share posts with their followers. 
 - 
-- 🌱 I’m currently sharpening my Python and CSS skills while working on'Bathing Ape'.
-- 
+- 🌱 I’m currently sharpening my Python, JS, React and CSS skills while working on'Bathing Ape'.
+ 
 - 👯 I’m looking to collaborate on creative projects. If you have one in mind, let me know!
 
 - 📚 I'm currently reading A Promised Land by Barack Obama
