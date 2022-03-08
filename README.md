@@ -24,3 +24,6 @@ Here are some ideas to get you started:
 - 📚 I'm currently reading A Promised Land by Barack Obama
 - 
 - 📫 How to reach me: kreston.cm@gmail.com
+
+<img src="https://github-readme-stats.vercel.app/api?username=krestn&show_icons=true&theme=gotham" alt="krestn" />
+
