@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=krestn&show_icons=true&theme=gotham" alt="krestn" />
 
 [![Kreston's GitHub stats](https://github-readme-stats.vercel.app/api?username=krestn)](https://github.com/krestn/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krestn)](https://github.com/krestn/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krestn&layout=compact)](https://github.com/krestn/github-readme-stats)
 
 
 
