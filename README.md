@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently learning three.js
+- 🔭 I’m currently learning Three.js
 - 
 - 🌱 I’m currently sharpening my Python, JS, React and CSS skills while working on'Bathing Ape'.
  
