@@ -29,6 +29,8 @@ Here are some ideas to get you started:
  -->
 [![Kreston's GitHub stats](https://github-readme-stats.vercel.app/api?username=krestn)](https://github.com/krestn/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krestn&layout=compact)](https://github.com/krestn/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krestn&theme=dark)](https://git.io/streak-stats)
+
 
 
 
