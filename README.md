@@ -1,4 +1,4 @@
-### Hi, I'm Kreston 👋
+### Hi, I'm Kreston 👋🏽
 
 <!--
 **krestn/krestn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
