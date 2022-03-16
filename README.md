@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently learning Three.js
 
-- ⚔️ Sharpening my Python, JS, React and CSS skills while working on'Bathing Ape'.
+- ⚔️ Sharpening my Python, JavaScript, React and CSS skills while working on'Bathing Ape'.
  
 - 👯 I’m looking to collaborate on creative projects. If you have one in mind, let me know!
 
